@@ -4,7 +4,7 @@
     <p><b>Name : </b><i>Prince Gandhi</i></p>
     <p><b>Branch : </b><i>Civil</i></p>
     <p><b>Year : </b><i>1st</i></p>
-    <p><b>SP No. : </b><i>SP0201</i></p>
+    <p><b>SP No. : </b><i>SP0205</i></p>
     <p><b>Mentor Name : </b><i>Anurag Gupta</i></p>
 </div>
     <div>
@@ -23,18 +23,18 @@
                 <tr>
                     <td>1</td>
                     <td>26/07/2021</td>
-                    <td>CSS used in Exam form</td>
-                    <td>CSS::external,internal,<br>inline stlye,comments</td>
+                    <td>teamaking.html</td>
+                    <td>Simple web site about Tea making</td>
                     <td>NO</td>
                     <td></td>
                 </tr>
                 <tr>
                     <td>2</td>
                     <td>27/07/2021</td>
-                    <td>Styling</image></td>
-                    <td>Background image<br>box model(margin,padding,<br>border,box size)</td>
-                    <td>NO</td>
-                    <td></td>
+                    <td>application form.html</image></td>
+                    <td>A application form using HTML</td>
+                    <td>Such problem in add of Datalist in form</td>
+                    <td>by Google and Youtube</td>
                 </tr>
             </tbody>
         </table>
