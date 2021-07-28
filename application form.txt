@@ -1,0 +1,166 @@
+<!doctype html>
+<html>
+
+
+ <head>
+
+
+
+      <body>
+
+
+<style>
+body{background color:blue;}
+</style>
+
+
+
+
+               
+          <form>
+<fieldset>
+<legend><h2>Application Form</h2></legend>
+<div>
+Name:
+<input type="text" placeholder="Enter Name"required>
+</br></br>
+</div>
+
+<div>
+Mother's Name:
+<input type="text"> 
+<br>
+</div><br>
+
+<div>
+Father's Name:
+<input type="text"><br>
+<br>
+</div>
+
+<div>
+DOB(Date of Birth):
+<input type="date"><br>
+<br>
+</div>
+
+<div>
+Mobile No.: 
+<input type="Number" placeholder="Enter No.">
+<br><br>
+</div>
+
+<div>
+State :<input type="text" list="search">
+<datalist id ="search">
+<option value="Rajasthan">
+<option value="Jammu">
+<option value="Punjab">
+<option value="Hariyana">
+<option value="Gujarat">
+<option value="Mumbai">
+<option value="Karnataka">
+<option value="Kerala">
+<option value="Himachal Pradesh">
+<option value="Uttarakhand">
+<option value="New Delhi">
+<option value="Uttar Pradesh">
+<option value="Madhya Pradesh">
+<option value="Bihar">
+<option value="Chennai">
+</datalist>
+<input type="submit" value="search">
+</div>
+<br>
+
+<div>
+Pincode:
+<input type="number">
+<br><br>
+</div>
+
+<div>
+Address:
+<input type="text">
+<br><br>
+</div>
+
+<div>
+Landmark:
+<input type="text">
+<br><br>
+</div>
+
+<div>
+E-mail:
+<input Type="email" placeholder="xyz@gmail.com">
+<br> <br>
+</div>
+
+<div>
+Password:
+<input type="password" >
+<br><br>
+</div>
+
+<div>
+<p>GENDER</p>
+<input type="radio" name="gender" value="male" checked>Male
+<input type="radio" name="gender" value="Female" >Female
+<input type="radio" name="gender" value="Other" >other
+<br><br>
+</div>
+
+<div>
+<p>Interested Sports</p>
+<input type="checkbox" name="sports" >volleyball
+<input type="checkbox" name="sports" >cricket
+<input type="checkbox" name="sports" >football
+<input type="checkbox" name="sports" >Other
+<br><br>
+</div>
+
+<div>
+Photo:
+<input type="file" placeholder="passport photo in document">
+</div>
+
+<div>
+Marksheet(10th):
+<input type="file" placeholder="10th">
+<br>
+Marksheet(12th):
+<input type="file" placholder="12th">
+</div>
+<br>
+
+</fieldset>
+
+<div>
+Reset:
+<input type="reset"><br>
+</div>
+<br>
+
+<div>
+Submit Form:
+<input type="submit">
+
+</div>
+
+
+</form>
+  </body>
+
+
+
+
+ </head>
+
+
+
+
+
+
+</html>
+
