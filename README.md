@@ -196,6 +196,70 @@
                     <td>no</td>
                     <td></td>
                 </tr>
+                <tr>
+                <td>23</td>
+                <td>12/08/2021</td>
+                <td>music player.html</td>
+                <td>make app</td>
+                <td>NO</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>24</td>
+                <td>13/08/2021</td>
+                <td>music player.html</td>
+                <td>progress </td>
+                <td>NO</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>25</td>
+                <td>14/08/2021</td>
+                <td>music player.html</td>
+                <td>write code </td>
+                <td>for start music keys not work</td>
+                <td>I will try it again tomorrow</td>
+            </tr>
+            <tr>
+                <td>26</td>
+                <td>15/08/2021</td>
+                <td>music player.html</td>
+                <td>work progress</td>
+                <td>no</td>
+                <td></td>
+            </tr>
+            <tr>
+                  <td>27</td>
+                  <td>16/08/2021</td>
+                  <td>no work</td>
+                  <td>NO</td>
+                  <td>NO</td>
+                  <td></td>
+             </tr>
+             <tr>
+                  <td>28</td>
+                  <td>17/08/2021</td>
+                  <td>music player</td>
+                  <td>progress</td>
+                  <tr>some problem</td>
+                  <td>by youtube</td>
+             </tr>
+             <tr>
+                  <td>29</td>
+                  <td>18/08/2021</td>
+                  <td>no work</td>
+                  <td>NO</td>
+                  <td>NO</td>
+                  <td></td>
+             </tr>
+             <tr>
+                  <td>30</td>
+                  <td>19/08/2021</td>
+                  <td>no work</td>
+                  <td>NO</td>
+                  <td>NO</td>
+                  <td></td>
+             </tr>
             </tbody>
         </table>
     </div>
