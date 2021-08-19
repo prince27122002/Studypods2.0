@@ -241,7 +241,7 @@
                   <td>17/08/2021</td>
                   <td>music player</td>
                   <td>progress</td>
-                  <tr>some problem</td>
+                  <td>some problem</td>
                   <td>by youtube</td>
              </tr>
              <tr>
